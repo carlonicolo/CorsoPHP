@@ -13,6 +13,10 @@
     <ul>
         <li><a href="variables.php">Variables</a></li>
         <li><a href="ifelse.php">If...else</a></li>
+        <li><a href="switch.php">switch</a></li>
+        <li><a href="while.php">while</a></li>
+        <li><a href="dowhile.php">do...while</a></li>
+        <li><a href="for.php">for</a></li>
         <!--
         <li><a href="variablesScope.php">Variables scope</a></li>
         <li><a href="firstPHPclass.php">First PHP class</a></li>
