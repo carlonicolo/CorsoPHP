@@ -8,10 +8,14 @@
     $frutti = ['mela', 'banana', 'arancia'];
     echo $frutti[1]; // Stampa banana
     echo "<br>";
+    
+ 
 
     $persona = ['nome' => 'Marco', 'età' => 28];
     echo $persona['nome']; //Stampa 'Marco'
     echo "<br>";
+    
+ 
 
     $studenti = [
         ['nome' => 'Luca', 'voto' => 85],
@@ -22,10 +26,20 @@
 
     echo "<br>";
     echo "<br>";
+    
+ 
 
     foreach($frutti as $fruit){
         echo $fruit . "<br>";
     }
+
+    echo "<br>";
+    var_dump($frutti);
+    echo "<br>";
+    var_dump($persona);
+    echo "<br>";
+    var_dump($studenti);
+    echo "<br>";
 
     ?>
 
