@@ -18,6 +18,7 @@
         <li><a href="dowhile.php">do...while</a></li>
         <li><a href="for.php">for</a></li>
         <li><a href="array.php">array</a></li>
+        <li><a href="function.php">Funzioni con e senza parametri</a></li>
         <!--
         <li><a href="variablesScope.php">Variables scope</a></li>
         <li><a href="firstPHPclass.php">First PHP class</a></li>
